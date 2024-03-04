@@ -1,1 +1,1 @@
-https://bike-sharing-pw57cgwzmxj6gzwdnv9xqy.streamlit.app/
+https://bike-sharing-data-fadila.streamlit.app/
